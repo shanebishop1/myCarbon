@@ -1,5 +1,5 @@
 # myCarbon
-#HackDuke Code for Good 2020 Submission
+HackDuke Code for Good 2020 Submission
 
 ## Inspiration
 As climate change continues to worsen, we recognize the need to help others become more aware of their impact on the environment.
