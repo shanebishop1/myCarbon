@@ -403,7 +403,7 @@ Very Poor: 0 to 10</string>
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Which of these have you used today?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QKK-bb-UV5">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Which of these have you bought today?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QKK-bb-UV5">
                                 <rect key="frame" x="20" y="20" width="383" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="23"/>
@@ -619,7 +619,7 @@ Very Poor: 0 to 10</string>
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Which of these have you used today?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mZe-2a-vWH">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Which of these have you eaten today?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mZe-2a-vWH">
                                 <rect key="frame" x="34" y="32" width="360" height="57"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
@@ -1069,7 +1069,7 @@ Consuming less red meat
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="4IW-S7-H2y"/>
+        <segue reference="jMx-yi-RuM"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="Logov3.png" width="462" height="347"/>
@@ -1079,10 +1079,10 @@ Consuming less red meat
         <image name="hackDukePlane" width="130.5" height="130.5"/>
         <image name="hackDukeTrain" width="160.5" height="88"/>
         <image name="jackDukeLeaf" width="154" height="115.5"/>
-        <image name="newFireHack" width="132" height="119"/>
+        <image name="newFireHack" width="132.5" height="119"/>
         <image name="newLightningHack" width="70" height="132"/>
-        <image name="newPropane" width="95" height="132"/>
-        <image name="newWaterHack" width="96" height="132"/>
+        <image name="newPropane" width="95" height="132.5"/>
+        <image name="newWaterHack" width="96.5" height="132.5"/>
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
