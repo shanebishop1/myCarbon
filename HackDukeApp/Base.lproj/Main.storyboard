@@ -31,8 +31,8 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="mMa-Gg-Ujb">
                                 <rect key="frame" x="87" y="461" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">Ideal:100
-Excellent: 100 to 50
+                                <string key="text">Excellent:100
+Great: 100 to 50
 Good: 50 to 30
 Fair: 30 to 20
 Poor: 20 to 10
@@ -1069,7 +1069,7 @@ Consuming less red meat
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="jMx-yi-RuM"/>
+        <segue reference="OIA-9m-fIv"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="Logov3.png" width="462" height="347"/>
